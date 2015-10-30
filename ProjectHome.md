@@ -1,0 +1,1 @@
+Simple php script for sending email from localhost using codeigniter’s email class, with google smtp account. It supports bcc,cc,reply-to and file attachment
